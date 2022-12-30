@@ -2,7 +2,7 @@ const useGitHubAPI = () => {
 
     
     const _baseUrl = 'https://api.github.com';
-    const _tokenGitHub = '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';
+    const _tokenGitHub = '';
     const headers = {
         Authorization: `token ${_tokenGitHub}`
     };
